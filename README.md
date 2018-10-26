@@ -9,7 +9,7 @@ By watching the video you will understand better about the working of hacktoberf
 P.S. Star and share this repository, if you had fun!
 
 ```[Français]```
-Ceci est un projet pour débutant qui vous permettra de commencer sur [hacktoberfest](https://hacktoberfest.digitalocean.com/). Si vous ne savez pas par ou commencer, vous pouvez regarder la vidéo(le liens se trouve plus bas) et lire les règles de contribution. Joyeux Hacking!!
+Ceci est un projet pour débutant qui vous permettra de commencer sur [hacktoberfest](https://hacktoberfest.digitalocean.com/). Si vous ne savez pas par où commencer, vous pouvez regarder la vidéo(le liens se trouve plus bas) et lire les règles de contribution. Joyeux Hacking!!
 Regarder la vidéo permet de mieux comprendre le fonctionnement de hacktoberfest et comment créer des pull request.
 
 
@@ -46,10 +46,10 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 
 ```[Français]```
 - Ce projet doit fonctionner à l'ouverture de [index.html](https://github.com/lingonsaft/hacktoberfest/blob/master/index.html)
-- Vous avez le droit de soumettre des pull request qui ne respectent pas les règles, mais nous ne les intégrerons pas
-- Ne PAS ajouter d'étapes supplémentaires comme npm install ( nous souhaitons que le projet reste simple)
-- Ne supprimez PAS les vidéos, règles, FAQ ou autre contenu utile.
-- Le style/code peut être moche, élégant, stupide, petit ou grand à condition qu'il soit fonctionnel
+- Vous avez le droit de soumettre des pull request qui ne respectent pas les règles, mais nous ne les intégrerons pas.
+- N'ajoutez PAS d'étapes supplémentaires comme npm install ( nous souhaitons que le projet reste simple).
+- NE supprimez PAS les vidéos, les règles, FAQ ou autre contenu utile.
+- Le style/code peut être moche, élégant, stupide, petit ou grand à condition qu'il soit fonctionnel.
 - Ajoutez votre nom d'utilisateur au fichier [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)
 - Essayez de garder les pull request petit pour minimiser les conflits.
 
@@ -87,7 +87,7 @@ git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
 
-- Create a new pull request from your forked repository /Créer une pull request à partir de votre repo / Crie um novo pull request do  repositório que você fez fork
+- Create a new pull request from your forked repository /Créeق une pull request à partir de votre repo / Crie um novo pull request do  repositório que você fez fork
 
 -------------------------
 
@@ -106,9 +106,9 @@ git remote add upstream https://github.com/lingonsaft/hacktoberfest
 
 ```[English]``` You can verify that the new remote has been added by typing.
 
-```[French]``` Il est possible de vérifier le fonctionnement en tapant
+```[French]``` Il est possible de vérifier le fonctionnement en tapant.
 
-```[Português]``` Você pode verificar que seu novo controle remoto foi adicionado digitando
+```[Português]``` Você pode verificar que seu novo controle remoto foi adicionado digitando.
 
 ```terminal
 git remote -v
@@ -116,7 +116,7 @@ git remote -v
 
 ```[English]``` To pull any new changes from your parent repo simply run.
 
-```[French]``` Pour pull les nouveaux changements, il suffit de taper
+```[French]``` Pour pull les nouveaux changements, il suffit d'executer. 
 
 ```[Português]``` Para realizar pull de quaisquer novas mudanças para seu repositório, simplesmente execute.
 
